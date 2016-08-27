@@ -1,2 +1,1 @@
-git init...
-sda sdsdsa
+day day
