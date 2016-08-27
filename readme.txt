@@ -1,1 +1,2 @@
-day day
+write is file
+hello world
